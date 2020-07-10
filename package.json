@@ -1,0 +1,26 @@
+{
+	"name": "template-repos-static",
+	"private": true,
+	"description": "Template repository for static files",
+	"scripts": {
+		"lint": "prettier --write '**/*.{json,md,yml}'"
+	},
+	"husky": {
+		"hooks": {
+			"pre-commit": "npm run lint"
+		}
+	},
+	"devDependencies": {
+		"husky": "4.2.5",
+		"prettier": "2.0.5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/dev-protocol/assets.git"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/dev-protocol/assets/issues"
+	},
+	"homepage": "https://github.com/dev-protocol/assets#readme"
+}
