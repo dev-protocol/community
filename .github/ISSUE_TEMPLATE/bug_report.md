@@ -1,0 +1,23 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: ""
+labels: bug
+assignees: ""
+---
+
+# Description
+
+[ Please write here describe what kind of problem ]
+
+# Expected behavior/contents
+
+[ Please write here the expected behavior/contents ]
+
+# Actual behavior/contents
+
+[ Please write here the actual behavior/contents ]
+
+# Code of Conduct
+
+By submitting this issue, I confirm I've read and complied with the [CoC](https://github.com/dev-protocol/community/blob/master/CODE_OF_CONDUCT.md) 🖖
