@@ -25,7 +25,7 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 
 We're about to start a grant program called the **Dev Challenge**!
 
-For more information, 👉[see here](https://github.com/dev-protocol/community/wiki/Dev-Challenge).
+For more information, 👉[see here](https://github.com/dev-protocol/community/blob/master/bulletins/dev-challenge-2-exia.md).
 
 ---
 
