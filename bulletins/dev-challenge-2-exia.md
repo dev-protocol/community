@@ -1,6 +1,6 @@
 ![Dev Challenge EXIA](https://i.imgur.com/00hoYGS.gif)
 
-Hash tag: #DevChallengeEXIA ([Twitter](https://twitter.com/search?q=%23DevChallengeEXIA))
+# Hash tag: #DevChallengeEXIA ([Twitter](https://twitter.com/search?q=%23DevChallengeEXIA))
 
 # Purpose
 
@@ -14,7 +14,7 @@ Hash tag: #DevChallengeEXIA ([Twitter](https://twitter.com/search?q=%23DevChalle
 - People who are willing to improve Dev Protocol 🙌
 - People who can help with localization 🙌
 - Creators who can design the Dev world. 🙌
-- 日本の開発者の皆さん（学生の方も是非参加して下さい！）🇯🇵🙌
+- 日本の開発者の皆さん（学生の方も是非参加して下さい！）🙌
 
 # Bounty
 
@@ -35,7 +35,7 @@ July 12 to Sept. 11th, 1PM UTC (10PM JST)
 2. Report typos or sentence mistakes
 3. Translation implement
 4. Fix typos or sentence mistakes
-5. Dev Kit(SDK) improvement
+5. [Dev Kit(SDK)](https://github.com/dev-protocol/dev-kit-js) improvement
 6. DApp concept with mocks
 7. UI concept with mocks
 8. DApp development
@@ -46,7 +46,7 @@ July 12 to Sept. 11th, 1PM UTC (10PM JST)
 
 Create an issue to suggest your opinion on [GitHub](https://github.com/dev-protocol/community/issues) or create a pull-request to your target repository on GitHub. Share your work on social media and earn community points! 💰
 
-Please use hashtag #DevChallengeEXIA
+Please use hashtag `#DevChallengeEXIA`
 
 ### Points
 
@@ -68,7 +68,8 @@ Base points + Community points for each reaction(ignore yourself reactions) on G
 ### How
 
 Create an issue to notice to us your works on GitHub. Share your work on social media and earn community points! 💰
-Please use hashtag #DevChallengeEXIA
+
+Please use hashtag `#DevChallengeEXIA`
 
 ### Points
 
@@ -85,7 +86,7 @@ Min. points + Community points for each reaction(ignore yourself reactions) on G
 - Please submit your original work!
 - If the work infringes on someone's copyright or spoofing someone elses, the bounty will be lost.
 - Violent or any racist works are not allowed.
-- Be sure to include the letters “Dev” in your work. You can also use pretzels. 🥨 (Download here)
+- Be sure to include the letters “Dev” in your work. You can also use pretzels. 🥨 ([Download here](https://www.dropbox.com/sh/s55ba1d7qlcixjy/AADpM9_cZZR9k2wCJdFzwZzoa?dl=0))
 - The great works will be featured on the Dev website and on twitter.
 
 Were looking forward to seeing some great works!
