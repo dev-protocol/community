@@ -29,7 +29,7 @@ July 12 to Sept. 11th, 1PM UTC (10PM JST)
 
 # Challenge ideas
 
-##Dev Protocol related ー 70% distribution.
+## Dev Protocol related ー 70% distribution.
 
 1. Internationalization suggestions(multi-language)
 2. Report typos or sentence mistakes
