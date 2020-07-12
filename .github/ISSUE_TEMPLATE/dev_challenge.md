@@ -8,7 +8,9 @@ assignees: ""
 
 [ Please write here something ]
 
-# What applying for
+# Dev Challange
+
+## What applying for
 
 [ Please replace `[ ]` with `[x]` ]
 
@@ -18,18 +20,21 @@ Dev Protocol related
 - [ ] Report typos or sentence mistakes
 - [ ] Translation implement
 - [ ] Fix typos or sentence mistakes
-- [ ] Market suggestions
 - [ ] Dev Kit(SDK) improvement
-- [ ] DApp suggestion with mocks
-- [ ] UI suggestion with mocks
+- [ ] DApp concept with mocks
+- [ ] UI concept with mocks
 - [ ] DApp development
 - [ ] Market development
 - [ ] UI development
 
 off-site
 
-- [ ] Write a blog about how to use Dev and Stakes.social and ideas (Any platform)
-- [ ] Create concept art for Dev (illustrations and art with DEV in it)
+- [ ] Write a blog about how to use Dev and Stakes.social and ideas (Any platform as you like)
+- [ ] Create concept art for Dev (illustrations, design, any kind of art with DEV)
+
+## Address
+
+`[ Please write here your wallet address ]`
 
 # Code of Conduct
 
