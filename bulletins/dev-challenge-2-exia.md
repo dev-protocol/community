@@ -1,4 +1,4 @@
-![Dev Challenge EXIA](https://i.imgur.com/00hoYGS.gifv)
+![Dev Challenge EXIA](https://i.imgur.com/00hoYGS.gif)
 
 Hash tag: #DevChallengeEXIA ([Twitter](https://twitter.com/search?q=%23DevChallengeEXIA))
 
