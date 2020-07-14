@@ -19,7 +19,9 @@ Dev Protocol related
 - [x] Internationalization suggestions(multi-language)
 - [ ] Report typos or sentence mistakes
 - [ ] Translation implement
+- [ ] Other, report or suggestion not related to software
 - [ ] Fix typos or sentence mistakes
+- [ ] Other, fix source-codes not related to software's core
 - [ ] Dev Kit(SDK) improvement
 - [ ] DApp concept with mocks
 - [ ] UI concept with mocks

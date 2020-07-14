@@ -33,14 +33,16 @@ July 12 to Sept. 11th, 1PM UTC (10PM JST)
 
 1. Internationalization suggestions(multi-language)
 2. Report typos or sentence mistakes
-3. Translation implement
-4. Fix typos or sentence mistakes
-5. [Dev Kit(SDK)](https://github.com/dev-protocol/dev-kit-js) improvement
-6. DApp concept with mocks
-7. UI concept with mocks
-8. DApp development
-9. Market development
-10. UI development
+3. Other, report or suggestion not related to software
+4. Translation implement
+5. Fix typos or sentence mistakes
+6. Other, fix source-codes not related to software's core
+7. [Dev Kit(SDK)](https://github.com/dev-protocol/dev-kit-js) improvement
+8. DApp concept with mocks
+9. UI concept with mocks
+10. DApp development
+11. Market development
+12. UI development
 
 ### How
 
