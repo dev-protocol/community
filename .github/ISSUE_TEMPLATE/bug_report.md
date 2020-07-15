@@ -20,4 +20,4 @@ assignees: ""
 
 # Code of Conduct
 
-By submitting this issue, I confirm I've read and complied with the [CoC](https://github.com/dev-protocol/community/blob/master/CODE_OF_CONDUCT.md) 🖖
+By submitting this issue, I confirm I've read and complied with the [CoC](https://github.com/dev-protocol/community/blob/main/CODE_OF_CONDUCT.md) 🖖
