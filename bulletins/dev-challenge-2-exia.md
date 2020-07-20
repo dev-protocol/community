@@ -83,6 +83,18 @@ Min. points + Community points for each reaction(ignore yourself reactions) on G
 | Art   | 10             | 2                    | Creating a concept Art for Dev          |
 | blog  | 1              | 0.4                  | Writing an article or content about Dev |
 
+### How to upload your image
+
+GitHub can be upload images from your local.
+
+Drop your image on the issue edit form or click the link at the bottom.
+
+![issue edit form](https://i.imgur.com/IxMjyAU.png)
+
+You can see the image you've posted by clicking the "Preview" button.
+
+![preview](https://i.imgur.com/4rQYZJg.png)
+
 ### Notes:
 
 - Please submit your original work!
