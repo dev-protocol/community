@@ -6,11 +6,11 @@
 
 ## What applying for
 
-[ Please replace `[ ]` with `[x]` ]
+[ Please replace one `[ ]` to `[x]` ]
 
 Dev Protocol related
 
-- [x] Internationalization suggestions(multi-language)
+- [ ] Internationalization suggestions(multi-language)
 - [ ] Report typos or sentence mistakes
 - [ ] Translation implement
 - [ ] Other, report or suggestion not related to software
