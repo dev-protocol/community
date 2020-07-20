@@ -10,18 +10,18 @@
 
 Dev Protocol related
 
-- [ ] Internationalization suggestions(multi-language)
-- [ ] Report typos or sentence mistakes
-- [ ] Translation implement
-- [ ] Other, report or suggestion not related to software
-- [ ] Fix typos or sentence mistakes
-- [ ] Other, fix source-codes not related to software's core
-- [ ] Dev Kit(SDK) improvement
-- [ ] DApp concept with mocks
-- [ ] UI concept with mocks
-- [ ] DApp development
-- [ ] Market development
-- [ ] UI development
+- [ ] Internationalization suggestions(multi-language) \*Report/suggestions only
+- [ ] Report typos or sentence mistakes \*Report/suggestions only
+- [ ] Translation implement \*Fix source-codes
+- [ ] Other, report or suggestion not related to software \*Report/suggestions only
+- [ ] Fix typos or sentence mistakes \*Fix source-codes
+- [ ] Other, fix source-codes not related to software's core \*Fix source-codes
+- [ ] Dev Kit(SDK) improvement \*Fix source-codes
+- [ ] DApp concept with mocks \*Report/suggestions only
+- [ ] UI concept with mocks \*Report/suggestions only
+- [ ] DApp development \*Develop software
+- [ ] Market development \*Develop software
+- [ ] UI development \*Develop software
 
 off-site
 
