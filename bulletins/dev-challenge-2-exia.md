@@ -78,10 +78,10 @@ Please use hashtag `#DevChallengeEXIA`
 The bounty is determined by the community. Show your reaction to a great work with an emoji! 👍
 Min. points + Community points for each reaction(ignore yourself reactions) on GitHub or Discord. (1 Points = 1 DEV)
 
-| Level | Min.<br>Points | Community <br>Points | e.g.                                    |
-| ----- | -------------- | -------------------- | --------------------------------------- |
-| Art   | 10             | 2                    | Creating a concept Art for Dev          |
-| blog  | 1              | 0.4                  | Writing an article or content about Dev |
+| Level | Min. Points | Community Points | e.g.                                    |
+| ----- | ----------- | ---------------- | --------------------------------------- |
+| Art   | 10          | 2                | Creating a concept Art for Dev          |
+| blog  | 1           | 0.4              | Writing an article or content about Dev |
 
 ### How to upload your image
 
