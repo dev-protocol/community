@@ -85,15 +85,9 @@ Min. points + Community points for each reaction(ignore yourself reactions) on D
 
 ### How to upload your image
 
-GitHub can be upload images from your local.
+Please join the Dev Community on Discord. https://discord.gg/VwJp4KM
 
-Drop your image on the issue edit form or click the link at the bottom.
-
-![issue edit form](https://i.imgur.com/IxMjyAU.png)
-
-You can see the image you've posted by clicking the "Preview" button.
-
-![preview](https://i.imgur.com/4rQYZJg.png)
+Post your works to 🏕community-git channel !
 
 ### Notes:
 
