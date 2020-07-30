@@ -69,14 +69,14 @@ Base points + Community points for each reaction(ignore yourself reactions) on G
 
 ### How
 
-Create an issue to notice to us your works on GitHub. Share your work on social media and earn community points! 💰
+Please post it to the 🏕community-git channel on Discord. Share your work on social media and earn community points! 💰
 
 Please use hashtag `#DevChallengeEXIA`
 
 ### Points
 
 The bounty is determined by the community. Show your reaction to a great work with an emoji! 👍
-Min. points + Community points for each reaction(ignore yourself reactions) on GitHub or Discord. (1 Points = 1 DEV)
+Min. points + Community points for each reaction(ignore yourself reactions) on Discord. (1 Points = 1 DEV)
 
 | Level | Min. Points | Community Points | e.g.                                    |
 | ----- | ----------- | ---------------- | --------------------------------------- |
