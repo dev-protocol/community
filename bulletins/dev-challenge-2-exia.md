@@ -2,6 +2,8 @@
 
 # Hash tag: #DevChallengeEXIA ([Twitter](https://twitter.com/search?q=%23DevChallengeEXIA))
 
+🇯🇵 日本語: https://github.com/dev-protocol/community/blob/master/bulletins/dev-challenge-2-exia_ja.md
+
 # Purpose
 
 - Expanding Dev Protocol's user base
@@ -22,7 +24,7 @@ Total 10,000 DEV
 
 # Challenge Period
 
-July 12 to Sept. 11th, 1PM UTC (10PM JST)
+July 12 to Sept. 11th, 1PM UTC (Sept. 11th, 10PM JST)
 
 - The challenge ends when all the total bounty has been dealt.
 - The challenge ends when the due date arrives, even if there is still total bounty left.
