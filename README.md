@@ -23,9 +23,11 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 
 # 💝Featured Topic💨
 
-We're about to start a grant program called the **Dev Challenge**!
+~~We're about to start a grant program called the **Dev Challenge**!
 
-For more information, 👉[see here](https://github.com/dev-protocol/community/blob/main/bulletins/dev-challenge-2-exia.md).
+~~For more information, 👉[see here](https://github.com/dev-protocol/community/blob/main/bulletins/dev-challenge-2-exia.md).
+
+Dev Challenge ended on September 11. Look forward to the next challenge!
 
 ---
 
