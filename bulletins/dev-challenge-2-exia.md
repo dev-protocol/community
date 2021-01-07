@@ -2,7 +2,7 @@
 
 # Hash tag: #DevChallengeEXIA ([Twitter](https://twitter.com/search?q=%23DevChallengeEXIA))
 
-🇯🇵日本語ページ : https://github.com/dev-protocol/community/blob/main/bulletins/dev-challenge-2-exia_ja.md
+🇯🇵 日本語ページ : https://github.com/dev-protocol/community/blob/main/bulletins/dev-challenge-2-exia_ja.md
 
 # Purpose
 

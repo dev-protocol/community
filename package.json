@@ -1,7 +1,7 @@
 {
-	"name": "template-repos-static",
+	"name": "community",
 	"private": true,
-	"description": "Template repository for static files",
+	"description": "🏕Community space for Dev Protocol",
 	"scripts": {
 		"lint": "prettier --write '**/*.{json,md,yml}'"
 	},
@@ -14,13 +14,17 @@
 		"husky": "4.3.6",
 		"prettier": "2.2.1"
 	},
+	"version": "1.0.0",
+	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/dev-protocol/assets.git"
+		"url": "git+https://github.com/dev-protocol/community.git"
 	},
-	"license": "MIT",
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/dev-protocol/assets/issues"
+		"url": "https://github.com/dev-protocol/community/issues"
 	},
-	"homepage": "https://github.com/dev-protocol/assets#readme"
+	"homepage": "https://github.com/dev-protocol/community#readme"
 }
