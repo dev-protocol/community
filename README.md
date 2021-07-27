@@ -5,11 +5,7 @@ This repository is dedicated to our community discussion, we are talking about a
 
 ## 💝Featured Topic💨
 
-~~We're about to start a grant program called the **Dev Challenge**!~~
-
-~~For more information, 👉[see here](https://github.com/dev-protocol/community/blob/main/bulletins/dev-challenge-2-exia.md).~~
-
-Dev Challenge ended on September 11. Look forward to the next challenge!
+Current topic and event right now: <a href="https://devprotocol.notion.site/Welcome-to-DEV-DAPP-STARTER-GRANTS-5cb95252f18540258111581ea54d8808">Dev Dapp Starter Grants</a>
 
 ---
 
