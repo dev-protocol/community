@@ -9,6 +9,9 @@ Current topic and event right now: <a href="https://devprotocol.notion.site/Welc
 
 ---
 
+## Community Forum
+- https://community.devprotocol.xyz/
+
 ## 🌐Links🔗
 
 - Discord: https://discord.gg/VwJp4KM
