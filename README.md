@@ -5,8 +5,9 @@ This repository is dedicated to our community discussion, we are talking about a
 
 ## 💝Featured Topic💨
 
-Current topic and event right now: <a href="https://devprotocol.notion.site/Welcome-to-DEV-DAPP-STARTER-GRANTS-5cb95252f18540258111581ea54d8808">Dev Dapp Starter Grants</a>
-
+Current topic and event right now:
+- <a href="https://devprotocol.notion.site/Welcome-to-DEV-DAPP-STARTER-GRANTS-5cb95252f18540258111581ea54d8808">Dev Dapp Starter Grants</a>
+- <a href="https://airdrop.devprotocol.xyz/">Dev Airdrop</a>
 ---
 
 ## Community Forum
@@ -18,6 +19,8 @@ Current topic and event right now: <a href="https://devprotocol.notion.site/Welc
 - Telegram: https://t.me/devprtcl
 - Medium: https://medium.com/devprtcl
 - Twitter: https://twitter.com/devprtcl
+- Facebook: https://www.facebook.com/DevProtocol.xyz/
+- LinkedIn: https://www.linkedin.com/showcase/dev-protocol/
 
 <img src="https://user-images.githubusercontent.com/73097560/126609933-33c2d9a0-26db-44fe-b5a0-b3782585ae93.png" width="3%"> <strong>Join us and let's harvest the Dev token</strong>
 
