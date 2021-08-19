@@ -1,3 +1,15 @@
+<p align="center">
+  <a href="https://twitter.com/devprtcl">
+    <img src="https://img.shields.io/twitter/follow/devprtcl?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://discord.gg/VwJp4KM">
+    <img src="https://img.shields.io/discord/547215761341546497?logo=discord&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCN7m74tFgJJnoGL4zk6aJ6g?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCN7m74tFgJJnoGL4zk6aJ6g?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
+  </a>
+</p>
+
 ![Dev Protocol](https://user-images.githubusercontent.com/73097560/126608267-c422adf1-d201-4ef4-ad40-502dc69c4f6f.png)
 
 # Community Discussion
