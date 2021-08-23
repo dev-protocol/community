@@ -15,6 +15,9 @@
 # Community Discussion
 This repository is dedicated to our community discussion, we are talking about a lot of things here like incoming events, new proposals, new features, and many more. You are free to join in this discussion, help us to improve our project, suggest your ideas and give your opinion freely.
 
+
+## Branding 
+Get the logos and markdown badges of Dev Protocol 👉 [here](/branding/branding.md)
 ## 💝Featured Topic💨
 
 Current topic and event right now:
