@@ -4,9 +4,12 @@ Create [issues](https://github.com/dev-protocol/community/issues) to suggest bad
 
 ## Badges: 
 
-![dev-protocol](https://custom-icon-badges.herokuapp.com/badge/Dev_Protocol-black.svg?logo=devprtcl)
+| Name | Badges | 
+| --- | --- |
+| Dev Protocol | ![dev-protocol](https://custom-icon-badges.herokuapp.com/badge/Dev_Protocol-black.svg?logo=devprtcl) |
+| Stakes.Social | ![stakes-social](https://custom-icon-badges.herokuapp.com/badge/Stakes.Social-black.svg?logo=stakes.social) |
 
-![stakes-social](https://custom-icon-badges.herokuapp.com/badge/Stakes.Social-black.svg?logo=stakes.social)
+Click [Raw](https://raw.githubusercontent.com/dev-protocol/community/main/branding/branding.md) to see the codes.
 
 ## Logos
 
