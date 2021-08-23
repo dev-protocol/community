@@ -8,3 +8,7 @@
 
 Create [issues](https://github.com/dev-protocol/community/issues) to suggest badges
 
+## Logos
+
+<img width="512" alt="Avatar w 01 (transparent-logo)" src="https://user-images.githubusercontent.com/73097560/130387550-c1286cae-e37b-41b5-a9f8-8dd4535a7db4.png">
+
