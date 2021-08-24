@@ -13,7 +13,7 @@ Create [issues](https://github.com/dev-protocol/community/issues) to suggest bad
 Click [Raw](https://raw.githubusercontent.com/dev-protocol/community/main/branding/branding.md) to see the codes.
 
 > Note: You can customize the width & height or insert the link of Dev Protocol or Stakes.Social to your project. <br>
-` Ex. <a href="URL"><img src="badge-URL" width="50%" height="100px"></ `
+` Ex. <a href="URL"><img src="badge-URL" width="50%" height="100px"></a> `
 	
 ## Logos
 
