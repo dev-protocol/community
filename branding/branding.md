@@ -19,3 +19,8 @@ Click [Raw](https://raw.githubusercontent.com/dev-protocol/community/main/brandi
 
 <img width="512" alt="Avatar w 01 (transparent-logo)" src="https://user-images.githubusercontent.com/73097560/130387550-c1286cae-e37b-41b5-a9f8-8dd4535a7db4.png">
 
+
+## Others
+
+<img width="179" src="https://user-images.githubusercontent.com/17464685/129601828-fd461e84-bee7-4293-8fd6-f9cd3692f8ad.png">
+
