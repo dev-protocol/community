@@ -22,7 +22,7 @@ Get the logos and markdown badges of Dev Protocol 👉 [here](/branding/branding
 
 Current topic and event right now:
 - <a href="https://devprotocol.notion.site/Welcome-to-DEV-DAPP-STARTER-GRANTS-5cb95252f18540258111581ea54d8808">Dev Dapp Starter Grants</a>
-- <a href="https://airdrop.devprotocol.xyz/">Dev Airdrop</a>
+- <a href="https://twitter.com/devprtcl/status/1428608483478315011">Dev Airdrop</a>
 ---
 
 ## Community Forum
