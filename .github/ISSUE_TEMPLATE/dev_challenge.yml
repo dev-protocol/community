@@ -1,0 +1,50 @@
+name: Dev Challenge
+description: Create a post related to the Dev Challenge, e.g, some suggestions, ideas, works, etc.
+title: "[DEV CHALLENGE] <description>"
+labels: ["Dev Challenge"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please write quick information about the challenge
+    validations:
+      required: true
+  - type: input
+    id: devprtcl-related
+    attributes:
+      label: "What are you applying for? Please add the appropriate one shown in the placeholder or (other) specify."
+      placeholder: |
+        "
+        Dev Protocol-related
+          - [ ] Internationalization suggestions(multi-language) \*Report/suggestions only
+          - [ ] Report typos or sentence mistakes \*Report/suggestions only
+          - [ ] Translation implement \*Fix source-codes
+          - [ ] Other, report or suggestion not related to software \*Report/suggestions only
+          - [ ] Fix typos or sentence mistakes \*Fix source-codes
+          - [ ] Other, fix source-codes not related to software's core \*Fix source-codes
+          - [ ] Dev Kit(SDK) improvement \*Fix source-codes
+          - [ ] DApp concept with mocks \*Report/suggestions only
+          - [ ] UI concept with mocks \*Report/suggestions only
+          - [ ] DApp development \*Develop software
+          - [ ] Market development \*Develop software
+          - [ ] UI development \*Develop software
+        Not related to Dev Protocol
+          - [ ] Write a blog about how to use Dev and Stakes.social and ideas (Any platform as you like)
+          - [ ] Create concept art for Dev (illustrations, design, any kind of art with DEV)
+        "
+  - type: input
+    id: wallet
+    attributes:
+      label: Address
+      description: Please write here your wallet address
+    validations:
+      required: false
+  - type: checkboxes
+    id: coc
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, I confirm I've read and complied with the [CoC](https://github.com/dev-protocol/community/blob/main/CODE_OF_CONDUCT.md) 🖖
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
