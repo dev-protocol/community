@@ -20,7 +20,7 @@ This repository is dedicated to our community discussion, we are talking about a
 - Get interact more with Web3 and Blockchain
 - Interact with great members
 
-[Join now](https://github.com/dev-protocol/community/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community)
+[Join now](https://github.com/dev-protocol/community/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community) | [Explore](https://github.com/dev-protocol)
 
 ## Branding 
 Get the logos and markdown badges of Dev Protocol 👉 [here](/branding/branding.md)
