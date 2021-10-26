@@ -15,14 +15,20 @@
 # Community Discussion
 This repository is dedicated to our community discussion, we are talking about a lot of things here like incoming events, new proposals, new features, and many more. You are free to join in this discussion, help us to improve our project, suggest your ideas and give your opinion freely.
 
+## Why you should join this community?
+- Accelerate your learning by contributing with our dApps open-source
+- Get interact more with Web3 and Blockchain
+- Interact with great members
+
+[Join now](https://github.com/dev-protocol/community/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community)
 
 ## Branding 
 Get the logos and markdown badges of Dev Protocol 👉 [here](/branding/branding.md)
+
 ## 💝Featured Topic💨
 
 Current topic and event right now:
 - <a href="https://devprotocol.notion.site/Welcome-to-DEV-DAPP-STARTER-GRANTS-5cb95252f18540258111581ea54d8808">Dev Dapp Starter Grants</a>
-- <a href="https://twitter.com/devprtcl/status/1428608483478315011">Dev Airdrop</a>
 ---
 
 ## Community Forum
