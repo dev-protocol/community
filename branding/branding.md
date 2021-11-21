@@ -2,7 +2,7 @@
 
 Create an [issue](https://github.com/dev-protocol/community/issues) to suggest badges or other branding for Dev Protocol. 🚀
 
-**Do you want to use our logos and branding for your use?
+**Do you want to use our logos and branding for your use?\
 Here we've written some guidelines for proper use of our logos.**
 
 ## 📜 Terms
@@ -24,7 +24,7 @@ Here we've written some guidelines for proper use of our logos.**
 | Stakes.social | ![stakes-social](https://custom-icon-badges.herokuapp.com/badge/Stakes.Social-black.svg?logo=stakes.social) | N/A |
 | Stakes.social Project fetch | <img src="https://badge.devprotocol.xyz/0x04c8c053921a3c5b97F89b4e745525E6a4412149/descriptive"> | ![image](https://user-images.githubusercontent.com/73097560/130575616-404aea3e-da2d-48a0-a01a-00b07fb84062.png) fetch your project by copying the project url code |
 
-#### View [raw](https://raw.githubusercontent.com/dev-protocol/community/main/branding/branding.md) codes
+### View [raw](https://raw.githubusercontent.com/dev-protocol/community/main/branding/branding.md) to see original codes
 
 ## 🖼 Logos
 
@@ -41,5 +41,5 @@ Please follow their guidelines as well. Not following them might result in legal
 
 ## 📧 Contact
 
-Have any questions, comments, or anything else? Don't hesitate to send us a\
-mail at hi@devprotocol.xyz or in our [Discord server](https://discord.gg/VwJp4KM).
+Have any questions, comments, or anything else? Don't hesitate to\
+send us a mail at hi@devprotocol.xyz or in our [Discord server](https://discord.gg/VwJp4KM).
