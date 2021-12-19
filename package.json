@@ -15,13 +15,16 @@
 		"prettier": "2.5.1"
 	},
 	"version": "1.0.0",
-	"main": "index.js",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/dev-protocol/community.git"
 	},
-	"keywords": [],
-	"author": "",
+	"keywords": [
+		"github",
+		"devprtlc",
+		"community"
+	],
+	"author": "Dev Protocol",
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/dev-protocol/community/issues"
