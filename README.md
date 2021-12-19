@@ -24,7 +24,7 @@ This repository is dedicated to our community discussion, we are talking about a
 
 ### [Join now](https://github.com/dev-protocol/community/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community) | [Explore](https://github.com/dev-protocol)
 
-## 🎨 Branding 
+## 🎨 Branding
 
 Get the logos and markdown badges of Dev Protocol 👉 [here](/branding/branding.md)
 
@@ -33,6 +33,7 @@ Get the logos and markdown badges of Dev Protocol 👉 [here](/branding/branding
 Current topic and event right now:
 
 - [Dev Dapp Starter Grants](https://devprotocol.notion.site/Welcome-to-DEV-DAPP-STARTER-GRANTS-5cb95252f18540258111581ea54d8808)
+
 ---
 
 ## Community Forum

@@ -7,22 +7,22 @@ Here we've written some guidelines for proper use of our logos.**
 
 ## 📜 Terms
 
-| Do's                                                         | Don'ts                                                       |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| :heavy_check_mark: Use the Dev Protocol logo to link to Dev Protocol | :x: Do not Use the Dev Protocol logo for your application’s icon |
-| :heavy_check_mark: Use the Dev Protocol logo in a blog post or news article about Dev Protocol | :x: Do not Use/Sell any Dev Protocol artwork without permission |
-| :heavy_check_mark: Use the right format for your project to ensure proper resolution. | :x: Do not change the original proportions.                  |
+| Do's                                                                                                                                 | Don'ts                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| :heavy_check_mark: Use the Dev Protocol logo to link to Dev Protocol                                                                 | :x: Do not Use the Dev Protocol logo for your application’s icon                                                                |
+| :heavy_check_mark: Use the Dev Protocol logo in a blog post or news article about Dev Protocol                                       | :x: Do not Use/Sell any Dev Protocol artwork without permission                                                                 |
+| :heavy_check_mark: Use the right format for your project to ensure proper resolution.                                                | :x: Do not change the original proportions.                                                                                     |
 | :heavy_check_mark: Use the [provided logo files](https://github.com/dev-protocol/community/blob/main/branding) at their actual size. | :x: Do not create your own versions of the [original logo files](https://github.com/dev-protocol/community/blob/main/branding). |
-| :heavy_check_mark: Use the logo with “Dev Protocol” wordmark | :x: Do not use the logo as text.                             |
-| :heavy_check_mark: Use the original colors.                  | :x: Violate the [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) license guidelines                                                            |
+| :heavy_check_mark: Use the logo with “Dev Protocol” wordmark                                                                         | :x: Do not use the logo as text.                                                                                                |
+| :heavy_check_mark: Use the original colors.                                                                                          | :x: Violate the [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) license guidelines                              |
 
 ## 🥇 Badges
 
-| Name | Badges | Notes |
-| --- | --- | :-- |
-| Dev Protocol | ![dev-protocol](https://custom-icon-badges.herokuapp.com/badge/Dev_Protocol-black.svg?logo=devprtcl) | N/A |
-| Stakes.social | ![stakes-social](https://custom-icon-badges.herokuapp.com/badge/Stakes.Social-black.svg?logo=stakes.social) | N/A |
-| Stakes.social Project fetch | <img src="https://badge.devprotocol.xyz/0x04c8c053921a3c5b97F89b4e745525E6a4412149/descriptive"> | ![image](https://user-images.githubusercontent.com/73097560/130575616-404aea3e-da2d-48a0-a01a-00b07fb84062.png) fetch your project by copying the project url code |
+| Name                        | Badges                                                                                                      | Notes                                                                                                                                                              |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dev Protocol                | ![dev-protocol](https://custom-icon-badges.herokuapp.com/badge/Dev_Protocol-black.svg?logo=devprtcl)        | N/A                                                                                                                                                                |
+| Stakes.social               | ![stakes-social](https://custom-icon-badges.herokuapp.com/badge/Stakes.Social-black.svg?logo=stakes.social) | N/A                                                                                                                                                                |
+| Stakes.social Project fetch | <img src="https://badge.devprotocol.xyz/0x04c8c053921a3c5b97F89b4e745525E6a4412149/descriptive">            | ![image](https://user-images.githubusercontent.com/73097560/130575616-404aea3e-da2d-48a0-a01a-00b07fb84062.png) fetch your project by copying the project url code |
 
 ### View [raw](https://raw.githubusercontent.com/dev-protocol/community/main/branding/branding.md) to see original codes
 
