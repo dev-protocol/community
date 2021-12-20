@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://twitter.com/devprtcl">
-    <img src="https://img.shields.io/twitter/follow/devprtcl?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+    <img src="https://img.shields.io/twitter/follow/devprtcl?label=Twitter&logo=twitter&style=for-the-badge&colorB=00ACEE" />
   </a>
   <a href="https://discord.gg/VwJp4KM">
-    <img src="https://img.shields.io/discord/547215761341546497?logo=discord&style=for-the-badge&color=blue" />
+    <img src="https://img.shields.io/discord/547215761341546497?logo=discord&style=for-the-badge&colorB=5865F2" />
   </a>
   <a href="https://www.youtube.com/channel/UCN7m74tFgJJnoGL4zk6aJ6g?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCN7m74tFgJJnoGL4zk6aJ6g?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCN7m74tFgJJnoGL4zk6aJ6g?style=for-the-badge&logo=youtube&label=YouTube&color=red" />
   </a>
 </p>
 
