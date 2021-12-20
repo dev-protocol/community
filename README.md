@@ -49,6 +49,6 @@ Current topic and event right now:
 - Facebook: <https://www.facebook.com/DevProtocol.xyz/>
 - LinkedIn: <https://www.linkedin.com/showcase/dev-protocol/>
 
-<img src="https://user-images.githubusercontent.com/73097560/126609933-33c2d9a0-26db-44fe-b5a0-b3782585ae93.png" width="3.5%"> <strong>Join us and let's harvest the Dev token</strong>
+<img src="https://user-images.githubusercontent.com/73097560/126609933-33c2d9a0-26db-44fe-b5a0-b3782585ae93.png" width="3.5%"> <strong>Join us</strong>
 
-![Dev Protocol memes](https://user-images.githubusercontent.com/73097560/126608708-bd6f2e1c-c176-45a9-9abf-1612e435c499.png)
+- [Stakes.social](http://stakes.social/)
