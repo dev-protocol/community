@@ -34,6 +34,9 @@ Here we've written some guidelines for proper use of our logos.**
 
 <img width="179" src="https://user-images.githubusercontent.com/17464685/129601828-fd461e84-bee7-4293-8fd6-f9cd3692f8ad.png">
 
+## Download other assets
+https://github.com/dev-protocol/community/tree/main/branding
+
 ## 📝 License
 
 All of our branding assets are licensed under the [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) license.\
