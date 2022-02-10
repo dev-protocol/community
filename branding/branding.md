@@ -28,7 +28,12 @@ Here we've written some guidelines for proper use of our logos.**
 
 ## 🖼 Logos
 
-<img width="512" alt="Avatar w 01 (transparent-logo)" src="https://user-images.githubusercontent.com/73097560/130387550-c1286cae-e37b-41b5-a9f8-8dd4535a7db4.png">
+<img width="512" alt="Dev Protocol logo" src="https://user-images.githubusercontent.com/33956553/153374566-699a079d-2c15-44c0-9ff3-85a836716bac.png">
+
+<img width="400" alt="Avatar w 01 (transparent-logo)" src="https://user-images.githubusercontent.com/73097560/130387550-c1286cae-e37b-41b5-a9f8-8dd4535a7db4.png">
+
+## 🪙 Token Symbol of DEV token
+<img width="200" alt="DEV Token symbol" src="https://user-images.githubusercontent.com/33956553/153374609-dd459e7e-d7cd-4574-be0f-bf61b00bc47b.png">
 
 ## 🖌 Banners
 
