@@ -37,6 +37,9 @@ Here we've written some guidelines for proper use of our logos.**
 ## Download other assets
 https://github.com/dev-protocol/community/tree/main/branding
 
+## Most use assets
+https://github.com/dev-protocol/community/tree/main/branding/assets
+
 ## 📝 License
 
 All of our branding assets are licensed under the [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) license.\
