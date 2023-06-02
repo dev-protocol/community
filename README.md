@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://twitter.com/devprtcl">
-    <img src="https://img.shields.io/twitter/follow/devprtcl?label=Twitter&logo=twitter&style=for-the-badge&colorB=00ACEE" />
+  <a href="https://twitter.com/poweredbyClubs">
+    <img src="https://img.shields.io/twitter/follow/poweredbyClubs?label=Twitter&logo=twitter&style=for-the-badge&colorB=00ACEE" />
   </a>
   <a href="https://discord.gg/VwJp4KM">
     <img src="https://img.shields.io/discord/547215761341546497?logo=discord&style=for-the-badge&colorB=5865F2" />
   </a>
-  <a href="https://www.youtube.com/channel/UCN7m74tFgJJnoGL4zk6aJ6g?sub_confirmation=1">
+  <a href="https://www.youtube.com/@poweredbyClubs?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCN7m74tFgJJnoGL4zk6aJ6g?style=for-the-badge&logo=youtube&label=YouTube&colorB=FF0000" />
   </a>
 </p>
@@ -45,7 +45,7 @@ Current topic and event right now:
 - Discord: <https://discord.gg/VwJp4KM>
 - Telegram: <https://t.me/devprtcl>
 - Medium: <https://medium.com/devprtcl>
-- Twitter: <https://twitter.com/devprtcl>
+- Twitter: <https://twitter.com/poweredbyClubs>
 - Facebook: <https://www.facebook.com/DevProtocol.xyz/>
 - LinkedIn: <https://www.linkedin.com/showcase/dev-protocol/>
 
