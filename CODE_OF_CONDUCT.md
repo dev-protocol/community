@@ -35,6 +35,8 @@ Examples of unacceptable behavior include:
   address, without their explicit permission
 - Other conduct which could reasonably be considered inappropriate in a
   professional setting
+- Statements or actions that would make the recipient of the information
+  feel uncomfortable, uneasy, or disgusted
 
 ## Enforcement Responsibilities
 
@@ -65,6 +67,9 @@ All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
+
+If you cannot contact the community leaders, 
+please report the CoC violation you see to @moderator on Discord.
 
 ## Enforcement Guidelines
 
